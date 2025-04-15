@@ -1,0 +1,95 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wholesale Health Club - Boost Your Brain</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #f0f4f8, #ffffff);
+      color: #333;
+    }
+    .hero {
+      background-image: url('https://images.unsplash.com/photo-1559757175-5700dde67544');
+      background-size: cover;
+      background-position: center;
+      padding: 100px 20px;
+      text-align: center;
+      color: white;
+    }
+    .hero h1 {
+      font-size: 3em;
+      margin-bottom: 20px;
+    }
+    .hero p {
+      font-size: 1.2em;
+      max-width: 600px;
+      margin: 0 auto 30px;
+    }
+    .cta-button {
+      background-color: #28a745;
+      color: white;
+      padding: 15px 30px;
+      font-size: 1.2em;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+    }
+    .cta-button:hover {
+      background-color: #218838;
+    }
+    .section {
+      padding: 60px 20px;
+      text-align: center;
+    }
+    .section h2 {
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+    .section p {
+      max-width: 800px;
+      margin: 0 auto;
+      font-size: 1.1em;
+    }
+    .footer {
+      background: #222;
+      color: #ccc;
+      padding: 20px;
+      text-align: center;
+    }
+    @media (max-width: 600px) {
+      .hero h1 {
+        font-size: 2em;
+      }
+      .cta-button {
+        padding: 10px 20px;
+        font-size: 1em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="hero">
+    <h1>Unlock Your Brain's Full Potential</h1>
+    <p>Join the Wholesale Health Club and discover the #1 Brain Booster trusted across the USA. Act fast, limited supply!</p>
+    <a class="cta-button" href="https://explicablenetwork10263876.o18.click/c?o=21580653&m=7318&a=602934&aff_click_id=fb_click_001&sub_aff_id=fb_ad_01" target="_blank">Claim Your Brain Booster Now</a>
+  </div>
+
+  <div class="section">
+    <h2>Why Join the Club?</h2>
+    <p>Get access to scientifically backed supplements at wholesale prices. Boost your memory, focus, and energy with natural, safe, and tested products. Perfect for students, professionals, and seniors.</p>
+  </div>
+
+  <div class="section" style="background: #f8f9fa;">
+    <h2>Limited Time Offer</h2>
+    <p>This exclusive offer is only available for a short period. Don't miss out on the chance to transform your mental clarity and productivity today.</p>
+    <a class="cta-button" href="https://explicablenetwork10263876.o18.click/c?o=21580653&m=7318&a=602934&aff_click_id=fb_click_001&sub_aff_id=fb_ad_01" target="_blank">Get Started</a>
+  </div>
+
+  <div class="footer">
+    &copy; 2025 Wholesale Health Club. All rights reserved.
+  </div>
+</body>
+</html>
